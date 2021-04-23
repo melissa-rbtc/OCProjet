@@ -1,0 +1,38 @@
+body{ /* Marge de gauche à 11em, style polices définit, couleur de police et couleur de fond */
+	padding-left: 11em;
+	font-family: Georgia, "Times New Roman", Times, serif;
+	background-color: #f1ebc2;
+	color: purple;
+}
+ul.navigation{ /*Retrait des puces, position de l'encadrer navigation avec dimension */
+	list-style-type: none;
+	padding: 0;
+	margin: 0;
+	position: absolute;
+	top: 2em;
+	left: 1em;
+	width: 9em;
+}
+h1{/* Sytle police */
+	font-family: Helvetiva, Geneva, Arial, SunSans-Regular, sans-serif
+}
+ul.navigation li{/*Style des liens*/
+	background: #f1e1c2;
+	margin: 10px 2px 10px 2px;
+	padding: 10px;
+	border-right: 1em solid purple
+}
+ul.navigation a{
+	text-decoration: none;
+}
+a:link{
+	color: blue
+}
+a:visited{
+	color: red
+}
+address{
+	margin-top: 1em;
+	padding-top: 1em;
+	border-top: thin dotted
+}

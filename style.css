@@ -1,7 +1,7 @@
 body{ /* Marge de gauche à 11em, style polices définit, couleur de police et couleur de fond */
 	padding-left: 11em;
 	font-family: Georgia, "Times New Roman", Times, serif;
-	background-color: #f1ebc2;
+	background-color: #E4E4E2;
 	color: purple;
 }
 ul.navigation{ /*Retrait des puces, position de l'encadrer navigation avec dimension */
